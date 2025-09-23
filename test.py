@@ -1,14 +1,6 @@
-# str1 = "hellobaby"
-# dict1 = {}
-# # str1 = str1.split('')
-# print(str1)
+print("hello world")
+print("hello \"MY PYTHON\"world")
 
-# for i in str1:
-#     if i not in dict1:
-#         dict1[i] = 1
-#     else:
-#         dict1[i]+= 1
-
-# print(dict1)
-
+print("hello"[2:4])
+print("hello"[::-1])
 
